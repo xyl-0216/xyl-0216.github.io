@@ -1,0 +1,3 @@
+.project-visual{height:auto!important;min-height:0!important;aspect-ratio:720/470;background:#171d24!important;border-color:#41454c!important}.project-visual>img{display:block;width:100%;height:auto;filter:none}.project{grid-template-columns:1.17fr 1fr;gap:48px}@media(max-width:700px){.project{grid-template-columns:1fr;gap:25px}.project-visual{max-width:none}}
+
+.project-visual>a{display:block;cursor:zoom-in}.project-visual>a>img{display:block;width:100%;height:auto}
